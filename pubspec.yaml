@@ -2,7 +2,7 @@ name: osumlog
 description: The osum logging library by osumpi
 homepage: https://github.com/osumpi
 repository: https://github.com/osumpi/osumlog
-version: 1.0.0
+version: 0.1.0
 
 environment:
   sdk: ">=2.15.0 <3.0.0"

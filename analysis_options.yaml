@@ -3,7 +3,6 @@ include: package:lints/recommended.yaml
 linter:
   rules:
     - camel_case_types
-    # - always_specify_types
     - prefer_collection_literals
     - avoid_shadowing_type_parameters
     - do_not_use_environment
@@ -28,7 +27,7 @@ linter:
     - omit_local_variable_types
     - one_member_abstracts
     - only_throw_errors
-    - package_api_docs # internal purpose only
+    - package_api_docs
     - prefer_asserts_in_initializer_lists
     - prefer_const_constructors
     - prefer_const_constructors_in_immutables
@@ -61,7 +60,7 @@ linter:
     - use_named_constants
     - use_setters_to_change_properties
     - use_string_buffers
-    - use_to_and_as_if_applicable # Maybe revoke this later
+    - use_to_and_as_if_applicable
     - sort_pub_dependencies
 
 analyzer:
