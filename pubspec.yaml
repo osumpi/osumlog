@@ -1,16 +1,14 @@
 name: osumlog
 description: The osum logging library by osumpi
+homepage: https://github.com/osumpi
+repository: https://github.com/osumpi/osumlog
 version: 1.0.0
-
-publish_to: none
 
 environment:
   sdk: ">=2.15.0 <3.0.0"
 
 dependencies:
   meta: ^1.7.0
-  tint:
-    git: https://github.com/rithviknishad/tint.git
 
 dev_dependencies:
   lints: ^1.0.0
