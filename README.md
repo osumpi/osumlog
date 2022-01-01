@@ -3,6 +3,8 @@
 The osum library for logging made with ❤️ by osumpi. Simple and clean
 to use.
 
+![image](https://user-images.githubusercontent.com/25143503/147853601-a43a85dc-3194-47c7-ba8a-5ac47e789dd3.png)
+
 ## Example Usage
 
 ```dart
